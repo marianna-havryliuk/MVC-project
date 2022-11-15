@@ -1,0 +1,26 @@
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCView.dll
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCView.pdb
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCController.dll
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCModal.dll
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCController.pdb
+D:\M\MVC Image\WinFormMVC\MVCView\bin\Debug\MVCModal.pdb
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.AssemblyReference.cache
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.GenerateResource.cache
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CoreCompileInputs.cache
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CopyComplete
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVCView.dll
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\MVCView.pdb
+D:\M\MVC Image\WinFormMVC\MVCView\obj\Debug\WinFormMVC.View.ImageInvertorView.resources
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCView.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCView.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCController.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCModal.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCController.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\bin\Debug\MVCModal.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.AssemblyReference.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\WinFormMVC.View.ImageInvertorView.resources
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.GenerateResource.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CoreCompileInputs.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CopyComplete
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVCView.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCView\obj\Debug\MVCView.pdb

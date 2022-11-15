@@ -1,0 +1,12 @@
+D:\M\MVC Image\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+D:\M\MVC Image\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+D:\M\MVC Image\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+D:\M\MVC Image\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+D:\M\MVC Image\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+D:\M\MVC Image\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb

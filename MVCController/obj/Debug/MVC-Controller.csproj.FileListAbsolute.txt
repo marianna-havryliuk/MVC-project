@@ -1,0 +1,18 @@
+D:\M\MVC Image\WinFormMVC\MVCController\bin\Debug\MVCController.dll
+D:\M\MVC Image\WinFormMVC\MVCController\bin\Debug\MVCController.pdb
+D:\M\MVC Image\WinFormMVC\MVCController\bin\Debug\MVCModal.dll
+D:\M\MVC Image\WinFormMVC\MVCController\bin\Debug\MVCModal.pdb
+D:\M\MVC Image\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.AssemblyReference.cache
+D:\M\MVC Image\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CoreCompileInputs.cache
+D:\M\MVC Image\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CopyComplete
+D:\M\MVC Image\WinFormMVC\MVCController\obj\Debug\MVCController.dll
+D:\M\MVC Image\WinFormMVC\MVCController\obj\Debug\MVCController.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\bin\Debug\MVCController.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\bin\Debug\MVCController.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\bin\Debug\MVCModal.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\bin\Debug\MVCModal.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.AssemblyReference.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CoreCompileInputs.cache
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CopyComplete
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\obj\Debug\MVCController.dll
+C:\WORKS\IV_COURSE\WinFormMVC\MVCController\obj\Debug\MVCController.pdb

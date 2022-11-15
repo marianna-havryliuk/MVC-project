@@ -1,0 +1,17 @@
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.exe.config
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.exe
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.dll
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.dll
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.dll
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.pdb
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.AssemblyReference.cache
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.SuggestedBindingRedirects.cache
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.Properties.Resources.resources
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.GenerateResource.cache
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.CoreCompileInputs.cache
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.CopyComplete
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.exe
+C:\WORKS\IV_COURSE\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.pdb
